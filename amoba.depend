@@ -1,0 +1,251 @@
+# depslib dependency file v1.0
+1572899188 source:c:\users\rádi kristóf\desktop\beadasra\amoba\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1557405536 c:\users\rádi kristóf\desktop\beadasra\amoba\econio.h
+	<stdbool.h>
+
+1575132101 source:c:\users\rádi kristóf\desktop\beadasra\amoba\jatekvezerles.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"econio.h"
+	"jatekvezerles.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1574878856 c:\users\rádi kristóf\desktop\beadasra\amoba\jatekvezerles.h
+	"structures.h"
+
+1574882841 c:\users\rádi kristóf\desktop\beadasra\amoba\structures.h
+	<stdbool.h>
+
+1574024774 c:\users\rádi kristóf\desktop\beadasra\amoba\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574024780 c:\users\rádi kristóf\desktop\beadasra\amoba\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575132404 source:c:\users\rádi kristóf\desktop\beadasra\amoba\keret.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"keret.h"
+	"econio.h"
+	"structures.h"
+	"jatekvezerles.h"
+	"sablon.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1574878856 c:\users\rádi kristóf\desktop\beadasra\amoba\keret.h
+	"structures.h"
+
+1574891286 c:\users\rádi kristóf\desktop\beadasra\amoba\sablon.h
+	"structures.h"
+	"tombkezelo.h"
+
+1575048523 c:\users\rádi kristóf\desktop\beadasra\amoba\tombkezelo.h
+	"structures.h"
+
+1575212529 source:c:\users\rádi kristóf\desktop\beadasra\amoba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"ranklist.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	"econio.h"
+	"tombkezelo.h"
+	"jatekvezerles.h"
+	"keret.h"
+	"sablon.h"
+	"structures.h"
+
+1575048475 c:\users\rádi kristóf\desktop\beadasra\amoba\ranklist.h
+
+1575798587 source:c:\users\rádi kristóf\desktop\beadasra\amoba\ranklist.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"ranklist.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575191573 source:c:\users\rádi kristóf\desktop\beadasra\amoba\sablon.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"econio.h"
+	"sablon.h"
+	"ranklist.h"
+	"tombkezelo.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575796751 source:c:\users\rádi kristóf\desktop\beadasra\amoba\tombkezelo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"econio.h"
+	"tombkezelo.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1572899188 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\econio.c
+	"econio.h"
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<assert.h>
+	<assert.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<stdbool.h>
+	<sys/time.h>
+	<sys/types.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1557405536 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\econio.h
+	<stdbool.h>
+
+1580825834 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\jatekvezerles.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"econio.h"
+	"jatekvezerles.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1580811336 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\jatekvezerles.h
+	"structures.h"
+
+1574882841 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\structures.h
+	<stdbool.h>
+
+1574024774 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1574024780 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575132404 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\keret.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"keret.h"
+	"econio.h"
+	"structures.h"
+	"jatekvezerles.h"
+	"sablon.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1574878856 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\keret.h
+	"structures.h"
+
+1574891286 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\sablon.h
+	"structures.h"
+	"tombkezelo.h"
+
+1575048523 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\tombkezelo.h
+	"structures.h"
+
+1580764695 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<time.h>
+	"ranklist.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+	"econio.h"
+	"tombkezelo.h"
+	"jatekvezerles.h"
+	"keret.h"
+	"sablon.h"
+	"structures.h"
+
+1575048475 c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\ranklist.h
+
+1575798587 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\ranklist.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"ranklist.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575191573 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\sablon.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<string.h>
+	"econio.h"
+	"sablon.h"
+	"ranklist.h"
+	"tombkezelo.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
+1575796751 source:c:\users\rádi kristóf\desktop\programozás\beadasra\amoba\tombkezelo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"econio.h"
+	"tombkezelo.h"
+	"structures.h"
+	"debugmalloc.h"
+	"debugmalloc-impl.h"
+
